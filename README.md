@@ -82,4 +82,4 @@ Thank you for visiting Vaibhav Pruthi's portfolio! We hope you found the site in
 
 ---
 
-This README was generated with ❤️ by readme.ai
+
